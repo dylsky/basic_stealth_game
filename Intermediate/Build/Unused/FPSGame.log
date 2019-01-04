@@ -1,0 +1,2 @@
+﻿  The system cannot find the path specified.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(39,5): error MSB3073: The command "E:\Games\UE_4.19\Engine\Build\BatchFiles\Clean.bat FPSGameEditor Win64 Development "C:\Github\learning\StealthGame\FPSGame.uproject" -WaitMutex -FromMsBuild" exited with code 3.
